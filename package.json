@@ -1,0 +1,22 @@
+{
+  "name": "angular-knob",
+  "version": "0.0.4",
+  "description": "An angular directive of JQuery Knob",
+  "main": "src/angular-knob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docnetwork/angular-knob.git"
+  },
+  "author": "probalazs <probalazs@nyenyere.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docnetwork/angular-knob/issues"
+  },
+  "homepage": "https://github.com/docnetwork/angular-knob#readme",
+  "dependencies": {
+    "jquery-knob": "^1.2.11"
+  }
+}
